@@ -1,16 +1,18 @@
-h1 {
-	font-size: 60px;
-	color: #373737;
-	font-family: 'Roboto Slab', serif;
-}
 html{
 	margin: 0px;
 	padding: 0px;
 }
 body{
 	background-color: #f4f4f4;
+	margin: 0px;
+	padding: 0px;
 }
 
 #cover-container{
 	background-color: white;
+}
+h1 {
+	font-size: 60px;
+	color: #373737;
+	font-family: 'Roboto Slab', serif;
 }
