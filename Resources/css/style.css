@@ -10,9 +10,15 @@ body{
 
 #cover-container{
 	background-color: white;
+	display: inline;
+	width: 70%;
 }
 h1 {
 	font-size: 60px;
 	color: #373737;
 	font-family: 'Roboto Slab', serif;
+}
+.right-panel{
+	display: inline;
+	width: 30%;
 }
